@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "499498487015",
+    "project_id": "svqualification",
+    "storage_bucket": "svqualification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499498487015:android:81e04247b3052284ad6642",
+        "android_client_info": {
+          "package_name": "com.example.silicon_village"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499498487015-uv5rij4unfbhir52j0bnncc5l7gq1fik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbazP6HI4QVc1xU3-IjhvYbG-VjCaW6F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499498487015-uv5rij4unfbhir52j0bnncc5l7gq1fik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499498487015-iujhi0ju9dqanfobs6k3omba8hp3iktl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.siliconVillage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
