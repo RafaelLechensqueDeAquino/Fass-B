@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:silicon_village/shared/model/user_model.dart';
+import 'package:silicon_village/model/user_model.dart';
 
 class AuthController {
   UserModel? _user;

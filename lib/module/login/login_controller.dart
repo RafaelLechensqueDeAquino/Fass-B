@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:silicon_village/shared/auth/auth_controller.dart';
-import 'package:silicon_village/shared/model/user_model.dart';
+import 'package:silicon_village/model/user_model.dart';
 
 class LoginController {
   final authController = AuthController();
